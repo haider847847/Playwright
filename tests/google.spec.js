@@ -2,7 +2,6 @@ const {test,expect} = require ('@playwright/test')
 
 test("Verify application title", async function({page}){
 await page.goto("https://www.google.com")
-await page.waitforTimeout(5000)
 const url= await page.url()
 console.log("Title is"+url)
 
