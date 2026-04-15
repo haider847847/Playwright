@@ -1,0 +1,23 @@
+[
+    {
+    "id":"1",
+    "username":"hmahmood@xiqinc.com",
+    "password": "admin@123"
+},
+
+{
+    "id":"2",
+    "username":"hmahmood1@xiqinc.com",
+    "password": "admin@123"
+},
+{
+    "id":"3",
+    "username":"hmahmood2@xiqinc.com",
+    "password": "admin@123"
+},
+{
+    "id":"4",
+    "username":"hmahmood3@xiqinc.com",
+    "password": "admin@123"
+}
+]
